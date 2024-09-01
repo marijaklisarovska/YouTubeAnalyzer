@@ -1,1 +1,1 @@
-"# YouTubeAnalyzer" 
+Introduction to data science project, analyzing some globally popular youtube channels by incorporating functions from the Youtube Data API, drawing conclusions and visualizing the data using the pandas and seaborn libraries.
